@@ -50,7 +50,7 @@ Web Developer/Software Engineer
 <a href="http://www.github.com/gophereverett"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=gophereverett&theme=cobalt&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/gophereverett" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gophereverett&langs_count=8&theme=cobalt&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+<!-- 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br /> -->
