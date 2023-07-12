@@ -8,7 +8,7 @@ Web Developer/Software Engineer
 * 🌍  I'm based in Atlanta, GA
 * 🖥️  See my portfolio at [My Portfolio](http://johnandrewjacobs.com)
 * ✉️  You can contact me at [john@johnandrewjacobs.com](mailto:john@johnandrewjacobs.com)
-* 🧠  I'm learning Deno
+* 🧠  I'm learning Next.js
 
 ### Skills
 
