@@ -52,6 +52,4 @@ Web Developer/Software Engineer
 
 <a href="https://github.com/gophereverett" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gophereverett&langs_count=8&theme=cobalt&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br /> 
